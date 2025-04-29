@@ -21,10 +21,6 @@ This Android application is a **Student Attendance Management System** built as 
 
 ├── app/ │ ├── manifests/ # AndroidManifest with declared activities │ ├── java/com/android/attendance/ │ │ ├── activity/ # All app activities (e.g., Login, AddStudent, ViewAttendance) │ │ ├── bean/ # Data model classes (StudentBean, FacultyBean, etc.) │ │ ├── db/ # SQLite DBAdapter for CRUD operations │ │ └── context/ # Application context for global data │ └── res/ # Layout XML files, drawable icons, and resources
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🛠️ How It Works
@@ -64,9 +60,7 @@ _Add screenshots here to demonstrate login screen, attendance form, and view att
 
 Username: Madhu Password: Madhu786
 
-yaml
-Copy
-Edit
+
 
 ---
 
